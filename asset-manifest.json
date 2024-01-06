@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a52594be.css",
+    "main.js": "/static/js/main.cab4823f.js",
+    "static/media/Sponsors.png": "/static/media/Sponsors.17879c86036cd7adcd3d.png",
+    "static/media/MiaPham.png": "/static/media/MiaPham.65b52f082c5dd90277b7.png",
+    "static/media/PournamiVarma.png": "/static/media/PournamiVarma.b253fdbe97d7d8133c74.png",
+    "static/media/Nintendo.png": "/static/media/Nintendo.30d2dd33f64e67fe04e1.png",
+    "static/media/HannahYi.png": "/static/media/HannahYi.0d1c63132da21f3f576a.png",
+    "static/media/AnnieTu.png": "/static/media/AnnieTu.413a50b977405144344d.png",
+    "static/media/KellyWang.png": "/static/media/KellyWang.cbf9c4cd37abe02c271d.png",
+    "static/media/LucyLin.png": "/static/media/LucyLin.1f72a01ee7011baf1ba1.png",
+    "static/media/SloaneShea.png": "/static/media/SloaneShea.5fc47ce9f5a9bb38f428.png",
+    "static/media/BriannaPak.png": "/static/media/BriannaPak.d6b40894bc29514d3cd1.png",
+    "static/media/RoshniSrikanth.png": "/static/media/RoshniSrikanth.1c78f1e9a089eb70006a.png",
+    "static/media/DaphneHe.png": "/static/media/DaphneHe.0d8fb42027169ec1c4a1.png",
+    "static/media/KaylaTounalom.png": "/static/media/KaylaTounalom.03133678a76f0ecc80da.png",
+    "static/media/Sticker.png": "/static/media/Sticker.1d9a272a9a4335f9b178.png",
+    "static/media/FinalLogo.png": "/static/media/FinalLogo.b804696f45b94b419a3e.png",
+    "static/media/Instax.png": "/static/media/Instax.808cb543f7683d3c4926.png",
+    "static/media/RocketSmoke.png": "/static/media/RocketSmoke.4fd3f2fa5f09af4f0cdc.png",
+    "static/media/Projector.png": "/static/media/Projector.c43d42b88cac77e7e989.png",
+    "static/media/Smoke.png": "/static/media/Smoke.ef08687d4dfd81fcceaa.png",
+    "static/media/WINFOLogoDark.png": "/static/media/WINFOLogoDark.6c1025701f494c3c0862.png",
+    "static/media/Rocket.png": "/static/media/Rocket.c3893e79557238b64df9.png",
+    "static/media/Bose.png": "/static/media/Bose.38e175de40146f2376d4.png",
+    "index.html": "/index.html",
+    "main.a52594be.css.map": "/static/css/main.a52594be.css.map",
+    "main.cab4823f.js.map": "/static/js/main.cab4823f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52594be.css",
+    "static/js/main.cab4823f.js"
+  ]
+}
