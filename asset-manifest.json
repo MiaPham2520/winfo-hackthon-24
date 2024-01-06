@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/winfo-hackthon-24/static/css/main.a52594be.css",
-    "main.js": "/winfo-hackthon-24/static/js/main.b89b8a75.js",
+    "main.js": "/winfo-hackthon-24/static/js/main.a3448179.js",
     "static/media/Sponsors.png": "/winfo-hackthon-24/static/media/Sponsors.17879c86036cd7adcd3d.png",
     "static/media/MiaPham.png": "/winfo-hackthon-24/static/media/MiaPham.65b52f082c5dd90277b7.png",
     "static/media/PournamiVarma.png": "/winfo-hackthon-24/static/media/PournamiVarma.b253fdbe97d7d8133c74.png",
@@ -26,10 +26,10 @@
     "static/media/Bose.png": "/winfo-hackthon-24/static/media/Bose.38e175de40146f2376d4.png",
     "index.html": "/winfo-hackthon-24/index.html",
     "main.a52594be.css.map": "/winfo-hackthon-24/static/css/main.a52594be.css.map",
-    "main.b89b8a75.js.map": "/winfo-hackthon-24/static/js/main.b89b8a75.js.map"
+    "main.a3448179.js.map": "/winfo-hackthon-24/static/js/main.a3448179.js.map"
   },
   "entrypoints": [
     "static/css/main.a52594be.css",
-    "static/js/main.b89b8a75.js"
+    "static/js/main.a3448179.js"
   ]
 }
