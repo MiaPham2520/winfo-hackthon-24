@@ -2,8 +2,8 @@ import React from 'react'
 import "../styles/PrizeTracks.css"
 import Nintendo from "../assets/Nintendo.png"
 import Bose from "../assets/Bose.png"
-import Projector from "../assets/Projector.png"
 import Instax from "../assets/Instax.png"
+import Sony from "../assets/SonyHeadphone.png"
 
 const PrizeTracks = () => {
   return (
@@ -90,10 +90,10 @@ const PrizeTracks = () => {
               </ul>
             </div>
             <div className='prize-tracks-best-design'>
-              <h3>Prize: <span>Projector</span></h3>
+              <h3>Prize: <span>Fujifil Intax Mini Printer</span></h3>
               <img
-                src={Projector}
-                alt='White projector'
+                src={Instax}
+                alt='White Fujifilm Instax Mini'
               />
             </div>
           </div>
@@ -115,10 +115,10 @@ const PrizeTracks = () => {
               </ul>
             </div>
             <div className='prize-tracks-best-software'>
-              <h3>Prize: <span>Projector</span></h3>
+              <h3>Prize: <span>Sony Noise Cancelling Headphone</span></h3>
               <img
-                src={Instax}
-                alt='White Fujifilm Instax Mini'
+                src={Sony}
+                alt='White Sony Noise Cancelling Headphone'
               />
             </div>
           </div>
