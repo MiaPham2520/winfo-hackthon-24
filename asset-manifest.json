@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/winfo-hackthon-24/static/css/main.a52594be.css",
-    "main.js": "/winfo-hackthon-24/static/js/main.2cee9287.js",
+    "main.css": "/winfo-hackthon-24/static/css/main.1e07d42b.css",
+    "main.js": "/winfo-hackthon-24/static/js/main.120a90cc.js",
     "static/media/Sponsors.png": "/winfo-hackthon-24/static/media/Sponsors.17879c86036cd7adcd3d.png",
     "static/media/MiaPham.png": "/winfo-hackthon-24/static/media/MiaPham.65b52f082c5dd90277b7.png",
     "static/media/PournamiVarma.png": "/winfo-hackthon-24/static/media/PournamiVarma.b253fdbe97d7d8133c74.png",
@@ -19,17 +19,17 @@
     "static/media/FinalLogo.png": "/winfo-hackthon-24/static/media/FinalLogo.b804696f45b94b419a3e.png",
     "static/media/Instax.png": "/winfo-hackthon-24/static/media/Instax.808cb543f7683d3c4926.png",
     "static/media/RocketSmoke.png": "/winfo-hackthon-24/static/media/RocketSmoke.4fd3f2fa5f09af4f0cdc.png",
-    "static/media/Projector.png": "/winfo-hackthon-24/static/media/Projector.c43d42b88cac77e7e989.png",
     "static/media/Smoke.png": "/winfo-hackthon-24/static/media/Smoke.ef08687d4dfd81fcceaa.png",
+    "static/media/SonyHeadphone.png": "/winfo-hackthon-24/static/media/SonyHeadphone.5c8131ed8a1799e67314.png",
     "static/media/WINFOLogoDark.png": "/winfo-hackthon-24/static/media/WINFOLogoDark.6c1025701f494c3c0862.png",
     "static/media/Rocket.png": "/winfo-hackthon-24/static/media/Rocket.c3893e79557238b64df9.png",
     "static/media/Bose.png": "/winfo-hackthon-24/static/media/Bose.38e175de40146f2376d4.png",
     "index.html": "/winfo-hackthon-24/index.html",
-    "main.a52594be.css.map": "/winfo-hackthon-24/static/css/main.a52594be.css.map",
-    "main.2cee9287.js.map": "/winfo-hackthon-24/static/js/main.2cee9287.js.map"
+    "main.1e07d42b.css.map": "/winfo-hackthon-24/static/css/main.1e07d42b.css.map",
+    "main.120a90cc.js.map": "/winfo-hackthon-24/static/js/main.120a90cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a52594be.css",
-    "static/js/main.2cee9287.js"
+    "static/css/main.1e07d42b.css",
+    "static/js/main.120a90cc.js"
   ]
 }
